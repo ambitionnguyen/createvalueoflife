@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "css_prefix_text": "fa-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "62c089cb34e74b3a1200bc7f5314eb4e",
+      "css": "clock-o",
+      "code": 59467,
+      "src": "fontelico"
+    },
+    {
+      "uid": "9c2b737b16ae2c8d66b7bfd29ba5ecd8",
+      "css": "phone-square",
+      "code": 59466,
+      "src": "fontelico"
+    }
+  ]
+}
