@@ -1,0 +1,352 @@
+.academy_gear{
+	max-width:100%;height:auto;
+	background-color: #e4e5e4;
+}
+.academy_gear_col{
+	background-color: #e4e5e4;
+	height: 50%;
+}
+.acedemy_gear_text{
+	text-align: center;
+	font-size: 30px !important;
+	font-weight: bold;
+	padding-top: 5%;
+	line-height: 140%;
+}
+.green_text{
+	color: #2f9dff;
+    font-size: 36px !important;
+}
+
+.un_green_text{	
+	border-bottom: 3px solid #2f9dff;
+	line-height: 0 !important;
+}
+
+.numberlist ul {
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;    
+}
+
+.numberlist ul li {
+    background-image: url("../../../uploads/2014/08/check_green.png");
+    background-repeat: no-repeat;
+    background-position: 9px 5px;
+	padding-left: 55px;
+	height: auto;
+	min-height: 40px;
+	text-align: justify;
+	
+}
+
+.numberlist ul li p{
+	padding-top: 12px;
+}
+
+.click_here_p{
+	text-align: center;
+	font-weight: bold;
+	
+}
+
+.click_here_a{
+	color:#0e5da3 !important;
+}
+
+.bg_cl_gray{
+	background-color: #f5f5f5;
+	border-top: 2px solid #e9e9e9;
+	border-bottom: 2px solid #e9e9e9;
+}
+
+.bg_cl_white{
+	background-color: white;
+}
+
+.spec_text{
+	background-color: #a5f66e;
+}
+
+.product_thumb{
+	height: auto;
+	min-height: 330px;
+	display: table;
+	table-layout: fixed;	
+}
+
+.product_thumb_lf{
+	display: table-cell;
+	min-width: 290px !important;
+}
+
+
+.product_thumb_rt{
+	display: table-cell;
+	float: left;
+	padding-bottom: 12%;
+}
+
+.product_thumb_rt_no_pad{
+	display: table-cell;
+	float: left;
+	padding-bottom: 3%;
+
+}
+
+.product_thumb_rt_no_pad_forDC{
+	display: table-cell;
+	margin-left: 20px;
+	float: left;	
+	/*padding-bottom: 12%;*/
+}
+
+.pTip{
+	text-align: center;
+	font-weight: bold;
+}
+
+.pChris{
+	color: #0e5da3 !important;
+	font-weight: bold;
+	font-style: "PT Serif";
+}
+
+.pOnly{
+	font-weight: bold !important;
+	text-align: center;
+	color: #323232;
+}
+
+.btnBuyNow{
+	width: 110px !important;
+	height: 35px !important;
+	padding-top: 0px !important;
+	padding-bottom: 0px !important;
+	/* font-weight: bold; */
+	font-size: 17px;
+	color: white !important;
+	background-color: rgb(121,224,53) !important;
+	box-shadow: 0px 2px 0px #888888 !important;
+	font-family: 'PT Sans Narrow',sans-serif;	
+	
+	border-radius: 4px;
+	font-weight: bold;
+	text-align: center;
+}
+
+input[type="submit"]:hover {
+-webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.2);
+-moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.2);
+box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.2);
+text-decoration: none;
+}
+
+.pGua{
+	color: #0e5da3;
+	font-weight: bold;
+}
+
+.product_thumb_for_victor{
+	height: auto;
+	min-height: 280px;
+	display: table;
+	table-layout: fixed;	
+}
+
+.product_thumb_lf_for_victor{
+	display: table-cell;
+	min-width: 430px !important;
+	min-height: 300px !important;
+
+}
+
+.product_thumb_rt_for_victor{
+	margin-top: 2%;
+	display: table-cell;
+	float: left;
+	margin-bottom: -1%;
+}
+
+blockquote {	
+  	background: white !important;
+	padding: 7px 40px !important;
+ 
+}
+
+blockquote p{
+	font-style: normal !important;
+}
+
+.pToday{
+	font-size: 30px !important;
+	font-family: 'PT Sans Narrow',sans-serif;		
+	padding-bottom: 0px;
+    margin-bottom: 11px;
+}
+
+
+.rm_team_avatar_aca{	
+	text-align: center;
+	padding-top: 0px !important;	
+	vertical-align: middle;
+}
+
+.rm_team_avatar_aca p{	
+	text-align: center;
+	width: 100%;
+	margin:0 auto;	
+}
+
+#wrapper_ca {
+	display: table;
+	table-layout: fixed;
+	width:100%;
+	margin:0 auto;	
+}
+#wrapper_ca div {
+    display: table-cell;        
+    text-align: center;
+}
+
+.rm_team_avatar_aca a{
+	float: left;
+}
+
+.buy_now {
+    /*width: 140px !important;
+    height: 40px !important; */
+    border: 0px;
+    border-bottom: 2px solid gray;   
+    font-size: 20px;
+    color: white !important;
+    background-color: rgb(121,224,53) !important;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+    font-family: 'PT Sans Narrow';
+    border-radius: 4px;
+    font-weight: bold;
+    padding: 7px 30px;
+	text-decoration: none;
+}
+
+.addtocart {
+    width: 190px !important;
+    /*height: 45px !important;*/
+    border: 0px;
+    border-bottom: 2px solid gray;
+    font-size: 26px;
+    color: white !important;
+    -moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+    background-color: rgb(121,224,53) !important;    
+    font-family: 'PT Sans Narrow';
+    border-radius: 6px;
+    font-weight: bold;
+    text-decoration: none;
+    padding:11px 13px;
+}
+
+
+.ic_social_ca{
+	text-align: center;	
+	margin:0 auto;	
+}
+
+.ic_social_real_ca{	
+	width: 73px;
+	height: 50px;
+ 	margin-right: 1px;
+ 	display: -moz-inline-box; display: inline-block;left;
+}
+
+#ic_mastercard{
+	background:transparent url('../../../uploads/2014/08/bar_mastercard.png') center top no-repeat; 	 	
+}
+#ic_visa{
+	background:transparent url('../../../uploads/2014/08/bar_visa.png') center top no-repeat; 	 	
+}
+#ic_american_ex{
+	background:transparent url('../../../uploads/2014/08/bar_americanexpress.png') center top no-repeat; 	 	
+}
+
+#victor_video{
+	margin-left: 0;
+	margin-bottom: 20px;
+}
+
+.row .icon-quote-left {
+	color: #C0C5CB;
+	font-size: 20px;
+	padding-right: 6px;
+}
+
+.row .icon-quote-right {
+	color: #C0C5CB;
+	font-size: 20px;
+	padding-left: 6px;
+}
+
+.div_dash{
+	border-width: 3px; border-style: dashed; border-color: #0e5da3; 
+
+}
+
+#ic_mastercard_top{
+	background:transparent url('../../../uploads/2014/08/mastercard.png') center top no-repeat; 	 	
+}
+#ic_visa_top{
+	background:transparent url('../../../uploads/2014/08/visa.png') center top no-repeat; 	 	
+}
+#ic_american_ex_top{
+	background:transparent url('../../../uploads/2014/08/americanexpress.png') center top no-repeat; 	 	
+}
+.for_intro{
+	min-height: 270px !important; margin-top: 30px; margin-left: 10% !important;
+}
+
+.dot_dash{
+	margin-left: 50px !important; margin-bottom: 15px !important;
+
+}
+
+.bg_mac{
+	background-image: url('../../../uploads/2014/08/gear_academy.png');
+}
+
+
+
+.addtocart:hover{
+	/*background-color: #5cb85c !important;	*/
+	
+}
+
+.addtocart:hover {
+	background-color: #5cb85c !important;
+}
+
+.buy_now:hover{
+	background-color: #5cb85c !important;	
+}
+.pFranson{
+	font-family: "PT Serif" !important;
+}
+.pFranson p{
+	font-family: "PT Serif" !important;
+}
+
+<!--[if IE]>
+	.aligncenter{
+		display: inline !important;
+	}
+<![endif]-->
+
+body .full_width_row .content_block.content_block_academy {
+	width: 1060px;
+}
+.content_block_academy .content img.arrow_down {
+margin-left: 2%;
+margin-right: 2%;
+display: -moz-inline-box;
+display: inline-block;
+}

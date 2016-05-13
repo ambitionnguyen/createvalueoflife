@@ -1,0 +1,52 @@
+.responsive .full{width:760px;} 
+
+		/*
+		columns for full width
+		*/	 
+
+		/* one */			.responsive .one{width:100%;} 
+		/* two */  			.responsive .two{width:360px;}	
+		/* three */  		.responsive .three{width:233.33px;}	
+		/* Four */  		.responsive .four{width:170px;}	
+		/* Five */  		.responsive .five{width:132px;}
+		/* Six */  			.responsive .six{width:106.67px;}
+		/* 2:3 column */  	.responsive .two-three{width:486.67px;}	
+		/* 3:4 column */ 	.responsive .three-four{width:550px;}	
+		/* 4:5 column */ 	.responsive .four-five{width:588px;}
+		/* 5:6 column */ 	.responsive .five-six{width:613.33px;}
+
+
+		/*
+		columns for pages with sidebar
+		*/
+		.responsive .content.left .full, .responsive .content.right .full{width:540px;} 	
+
+		/* one */			.responsive .content.left .one,.responsive  .content.right .one{width:100%;} 	
+		/* two  */			.responsive .content.left .two,.responsive .content.right .two{width:260px;} 
+		/* three */			.responsive .content.left .three,.responsive .content.right .three{width:166.67px} 
+		/* Four */			.responsive .content.left .four,.responsive .content.right .four{width:120px} 
+		/* Five */ 			.responsive .content.left .five,.responsive .content.right .five{width:92px} 
+		/* Six */ 			.responsive .content.left .six,.responsive .content.right .six{width:73.33px} 		
+		/* 2:3 column */ 	.responsive .content.left .two-three,.responsive .content.right .two-three{width:353px} 
+		/* 3:4 column */ 	.responsive .content.left .three-four,.responsive .content.right .three-four{width:400px;} 
+		/* 4:5 column */	.responsive .content.left .four-five,.responsive .content.right .four-five{width:428px}	 
+		/* 5:6 column */	.responsive .content.left .five-six,.responsive .content.right .five-six{width:446.67px}	 	
+ 
+
+		/*
+		columns in columns
+		*/ 
+		
+		/* two  */  .responsive .box.two .box,
+		/* three */ .responsive .box.three .box,
+		/* Four */ .responsive .box.four .box,
+		/* Five */ .responsive .box.five .box, 
+		/* Sidebar */ .responsive #container .sidebar .box .box, .responsive #container .sidebar .row
+		{width:100% !important;margin:0 0 20px 0;}   
+
+		.responsive .with_icons .box.one { margin: 0 auto !important;}
+		.responsive .with_icons.big_icons li.last:after  { margin-bottom: 0;}
+				
+		.top_content > .row {
+			width: 740px; 
+		}

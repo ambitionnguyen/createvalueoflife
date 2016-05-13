@@ -1,0 +1,51 @@
+.fa-clock-o {
+    /* float: left; */
+    margin-left: -1%;
+}
+
+@font-face {
+    font-family: 'Myriadpro-Regular';
+	src: url('../fontsmyriadpro-regular-webfont.eot'); /* IE */  
+	src: local('Myriadpro-Regular'), url('../fonts/myriadpro-regular-webfont.ttf') format('truetype'); /* non-IE */
+	src: local('Myriadpro-Regular'), url('../fonts/myriadpro-regular-webfont.woff') format('woff'); /* Modern Browsers */;
+}
+.icon {
+     margin-right: 0px !important; 
+}
+
+.icon-phone {
+    background: url("../../../uploads/2014/08/phone.png");
+    width: 6px;
+    height: 12px;
+    position: relative;
+    left: 2px;
+/* top: 33%; */
+    margin-top: 6px;
+   
+}
+
+.icon-phone:before {
+    content: "" !important;
+    
+}
+
+.send_contact {
+    width: 100px !important;
+    height: 30px !important;
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+		/*font-weight: bold;*/
+    font-size: 17px;
+    color: white !important;
+    background-color: rgb(121,224,53) !important;
+    box-shadow: 0px 2px 0px #888888 !important;
+    font-family: 'PT Sans Narrow',sans-serif;
+}
+
+.send_contact:hover {
+    background-color: #5cb85c !important;
+}
+
+.section_title{
+    font-size: 29px;
+}

@@ -1,0 +1,246 @@
+/*
+**Engagement Page
+*/
+
+.engagement-content p{
+	line-height: 22px;
+}
+
+.text-bold{
+	font-weight: bold;
+}
+.text-center{
+	text-align: center !important;
+}
+.text-gray{
+	color: #000;
+}
+.bg_gray_color {
+	background-color: #f5f5f5;
+	border-top: 2px solid #e9e9e9;
+	border-bottom: 2px solid #e9e9e9;
+}
+.bg-green{
+	background-color: #a5f66e;
+}
+#row-705862-2,#row-705862-62844,
+#row-792982-50459,
+#row-792982-26260,
+#row-811483-2,
+#row-811483-118140,
+#row-811483-157033,
+#row-811483-85588,
+#row-811483-85588{
+	background-color: #f5f5f5;
+	border-top: 2px solid #e9e9e9;
+	border-bottom: 2px solid #e9e9e9;
+}
+
+.text-blue{
+	color: #0e5da3;
+}
+.engagement-content ul li{
+	padding-bottom: 15px;
+	line-height: 22px;
+	margin-left: 25px;
+	max-width: 750px;
+}
+.info_bar .heading{
+	width: 100%;
+}
+
+.wrap-img img.acadamy{
+	margin: 0 auto;
+	text-align: center !important;
+}
+.wrap-img{
+	padding: 15px 0px;
+}
+#row-705862-77230,
+#row-705862-176256,
+#row-705862-182420,
+#row-792982-88444,
+#row-811483-35854{
+	background-color: rgb(215, 246, 194);
+}
+
+.wrap-social .ic_social{
+	text-align: right;
+}
+.wrap-social{
+	padding: 0px 5px;
+}
+
+.wrap-social .ic_social_real_ca{
+	margin: 0px 3px;
+}
+.wrap-btn{
+	text-align: center;
+	padding: 30px 0px;
+}
+.btn-get-start a{
+ 	text-decoration: none;
+	border-radius: 6px;
+	color: #0e5da3  !important;
+	margin-top: 20px;
+	text-align: center;
+	font-weight: bold;
+ }
+
+.btn-get-start{
+ 	display: inline-block;
+ 	text-align: center;
+ 	border: 1px solid #0e5da3 ;
+	-webkit-border-radius: 6px;
+	-moz-border-radius: 6px;
+	padding: 10px 20px;
+ }
+
+.bt-line{
+ 	text-decoration: underline;
+ }
+
+#row-792982-2{
+	background-color: #f5f5f5;
+	border-top: 2px solid #e9e9e9;
+	border-bottom: 2px solid #e9e9e9;
+}
+/*
+** page store clarity
+*/
+.wrap-img .img-center{
+	margin: 0 auto;
+}
+
+#row-792982-147518 .two:first{
+	padding-left: 10px;
+}
+.salary-box{
+	width: 77%;
+	margin: 25px auto;
+	padding: 20px 30px 10px 30px;
+	border: 3px dashed #0e5da3 !important;
+}
+h2.heading-custom{
+	font-size: 28px !important;
+	font-family: "PT Sans";
+}
+.text-italic{
+	font-style: italic;
+}
+.content-access{
+	font-size: 16px;
+	padding-top: 5px;
+}
+.wrap-btn-price .btn-price{
+	font-size: 22px;
+	font-family: "PT Sans";
+	color: #fff;
+	padding: 15px 30px;
+	text-decoration: none;
+}
+.wrap-btn-price {
+	padding: 10px 0px;
+	min-height: 60px;
+	text-align: center;
+}
+.wrap-btn-price div{
+	display: inline-block !important;
+}
+.btn-blue{
+	background-color: #0e5da3 !important;
+	padding: 15px 56px !important;
+}
+.btn-green{
+	background-color: rgb(121,224,53) !important;
+
+}
+.btn-green span{
+	text-decoration: line-through;
+}
+.content-testimonial{
+	margin-top: 10px;
+}
+.content-testimonial p{
+	font-size: 14px !important;
+	font-family: 'PT Sans',sans-serif !important;
+	line-height: 24px;
+}
+#testimonials-792982-106959 .client_info span,
+#testimonials-811483-86653 .client_info span{
+	color: #323232;
+	font-style: normal;
+}
+#testimonials-792982-106959 .client_info,
+#testimonials-811483-86653 .client_info{
+	color: #0e5da3;
+	font-style: normal;
+	display: none;
+}
+
+/*store page*/
+#row-62635-2 .featured_image_holder{
+	min-height: 275px;
+	border: 1px solid #E8E8E8;
+	padding: 5px 0px;
+	
+}
+#row-62635-2 div.embedded{
+	text-align: center;
+}
+
+.btn-store{
+	margin-top: 56px;
+}
+#text-box-62635-57177{
+	text-align: left;
+}
+.custom-gear-store{
+	border: 1px solid #E8E8E8;
+	display: inline !important;
+}
+/*marketing page*/
+.heading-title{
+	font-style: 14px !important; 
+	font-family: "PT Sans";
+}
+
+@media only screen and (max-width: 960px) {
+
+   	.wrap-social .ic_social{
+		text-align: center;
+	}
+	.wrap-social .rm_team_avatar_aca{
+		text-align: center;
+	}
+	.wrap-btn-price a{
+	float: none;
+	}
+	.btn-store{
+		margin-top: 5px;
+	}
+	#row-62635-2 .featured_image_holder{
+		display: inline-block;
+	}	
+}
+
+
+@media only screen and (min-width: 960px) {
+
+   	.wrap-social .ic_social{
+		text-align: right;
+	}
+	.wrap-social .rm_team_avatar_aca {
+		text-align: left;
+	}
+	.wrap-social .rm_team_avatar_aca .addtocart {
+		text-align: center;
+	}
+}
+@media only screen and (min-width: 960px) and (max-width: 1100px){
+
+  	.store-heading{
+  		min-height: 60px;
+ 	}
+}
+
